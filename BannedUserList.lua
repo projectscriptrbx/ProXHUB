@@ -1,1 +1,1 @@
-{"espadach1m_zoro", "GG_FGHS"}
+{"espadach1m_zoro"}
