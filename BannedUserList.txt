@@ -1,1 +1,1 @@
-return {"espadach1m_zoro"}
+return {"espadach1m_zoro", "GG_FGHS"}
