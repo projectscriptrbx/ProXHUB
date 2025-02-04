@@ -1,3 +1,3 @@
 return {
-       ["GG_FGHS"] = true,
+       ["GG_FGHS"] = false,
    }
