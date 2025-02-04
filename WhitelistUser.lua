@@ -1,0 +1,3 @@
+return {
+  "GG_FGHS",
+}
