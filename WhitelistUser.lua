@@ -1,3 +1,3 @@
 return {
-       ["GG_FGHS"] = false,
+       ["PatPatBloxer"] = true,
    }
